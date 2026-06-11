@@ -4,7 +4,7 @@
 C#/.NET · Go · Unity · Nakama · PlayFab · LiveOps
 
 I design systems and AI-augmented workflows that keep engineering fast and consistent.
-8+ years shipping production mobile games and applications — client (C#/.NET) and the
+9+ years shipping production mobile games and applications — client (C#/.NET) and the
 backend/LiveOps systems behind them. I use AI to architect, direct, and review — not just autocomplete.
 
 ---
