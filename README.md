@@ -22,6 +22,8 @@ backend/LiveOps systems behind them. I use AI to architect, direct, and review �
 | [Kush Tycoon: Pot Empire](https://play.google.com/store/apps/details?id=com.entity3.weedtycoon) | Procedural growth/progression | +25% avg session |
 | [Slots Legends](https://play.google.com/store/apps/details?id=com.slots.legends) | Real-time multiplayer + leaderboards | −40% app size |
 
+*Earlier shipped titles: Idle Pub Tycoon, Shadow Side AR, Duck Destroyer, Chocolate Factory, Weed Farm, Weed Grower 2, Wild Defense — plus 20+ freelance projects (Upwork, 5★).*
+
 ### Tech
 `C#` `.NET` `Go` `Unity` `Nakama` `PlayFab` `CloudScript` `Addressables` `UniRx` `Zenject`
 `Claude Code` `Codex` `Firebase` `AppsFlyer` `CI/CD` `Git`
