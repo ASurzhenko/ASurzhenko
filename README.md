@@ -32,4 +32,4 @@ backend/LiveOps systems behind them. I use AI to architect, direct, and review �
 
 📄 **CV:** [PDF](https://github.com/ASurzhenko/cv/blob/main/Oleksandr_Surzhenko_Senior_Software_Engineer.pdf) · 💼 **LinkedIn:** [in/asurzhenko](https://linkedin.com/in/asurzhenko) · ✉️ britishop@gmail.com
 
-*Open to senior software / backend / game-systems roles — fully remote.*
+*Open to senior software / backend / game-systems roles — remote, or on-site/hybrid with relocation within the EU.*
