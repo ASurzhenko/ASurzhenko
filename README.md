@@ -18,9 +18,9 @@ backend/LiveOps systems behind them. I use AI to architect, direct, and review �
 ### Selected projects
 | Project | What I built | Result |
 |---|---|---|
-| [Vegas Slots Cherry Master](https://play.google.com/store/apps/details?id=com.tapslots.sevenkings) | PlayFab → Nakama migration, dynamic RTP | Server-authoritative economy |
+| [Vegas Slots Cherry Master](https://play.google.com/store/apps/details?id=com.tapslots.sevenkings) | PlayFab → Nakama migration, dynamic RTP, new features & UI | Server-authoritative economy |
 | [Kush Tycoon: Pot Empire](https://play.google.com/store/apps/details?id=com.entity3.weedtycoon) | Procedural growth/progression | Live economy system |
-| [Slots Legends](https://play.google.com/store/apps/details?id=com.slots.legends) | Real-time multiplayer + leaderboards | −40% app size |
+| [Slots Legends](https://play.google.com/store/apps/details?id=com.slots.legends) | Real-time multiplayer + leaderboards, dynamic content delivery | −40% app size |
 | [Epoch Reels: Slots Casino](https://play.google.com/store/apps/details?id=com.flowsapp.epochreels) | Own slot math — reel strips, paytable, RTP targeting | Solo, shipped |
 | [Flows](https://play.google.com/store/apps/details?id=com.flowsapp.budget) | Budgeting app, Unity client → store release | Solo, shipped |
 
